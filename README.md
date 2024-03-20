@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://ecotecindustrial.com/images/yo.jpg"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/59/07/a4/5907a4a40818eda045fe8e5580ec9c05.gif"  />
 
 ###
 
@@ -49,11 +49,5 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LeonardoGonzalezDEV/LeonardoGonzalezDEV/output/snake.svg" alt="Snake animation" />
 
 ###
